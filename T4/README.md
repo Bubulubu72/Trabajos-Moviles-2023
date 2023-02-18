@@ -21,3 +21,4 @@ Lo que aprendí
   - itemBuilder del listView
   - Correcto formato del list Title y sus formatos
   - Widget circleAvatar
+
