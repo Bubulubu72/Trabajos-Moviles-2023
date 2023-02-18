@@ -22,3 +22,7 @@ Lo que aprendí
   - Correcto formato del list Title y sus formatos
   - Widget circleAvatar
 
+Screenshot
+
+[![Screenshot-2023-02-17-182902.png](https://i.postimg.cc/3RT9fMbd/Screenshot-2023-02-17-182902.png)](https://postimg.cc/zLxn3QNr)
+
