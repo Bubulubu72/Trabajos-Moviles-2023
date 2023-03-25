@@ -11,11 +11,11 @@ Esta app consta de una pantalla con un pequeño formulario en el que el usuario 
 un Switch para hacer un cálculo de propina.
 
 App para practicar el uso de widgets:
-  ●	Interacción del usuario 
-  ●	Estados
-  ●	Formateo de strings
-  ●	Text Fields
-  ●	Radio group
-  ●	Primary color
+  -	Interacción del usuario 
+  -	Estados
+  -	Formateo de strings
+  -	Text Fields
+  -	Radio group
+  -	Primary color
   
   
