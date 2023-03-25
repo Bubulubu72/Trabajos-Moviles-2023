@@ -17,5 +17,11 @@ App para practicar el uso de widgets:
   -	Text Fields
   -	Radio group
   -	Primary color
-  
-  
+
+[![imagen-2023-03-24-183423376.png](https://i.postimg.cc/pT973yvL/imagen-2023-03-24-183423376.png)](https://postimg.cc/7Gkm2HbF)
+
+
+VIDEO FUNCIONANDO
+
+https://drive.google.com/file/d/1yko7nZYSz-J6FA5_rZsDQ_H5xfJ8spV-/view?usp=share_link
+
